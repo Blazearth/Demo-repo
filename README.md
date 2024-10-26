@@ -1,4 +1,4 @@
 # Demo-repo
 First git repository
 <br>
-Author - Arth Srivastava
+Author - Arth Srivastava (KIET)
